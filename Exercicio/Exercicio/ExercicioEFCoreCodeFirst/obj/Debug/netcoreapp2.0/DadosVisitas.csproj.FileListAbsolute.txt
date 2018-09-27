@@ -1,0 +1,4 @@
+C:\Users\Orfeu\Google Drive\FACULDADE\Programação de Software Aplicado\P1\Trabalho Extra\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\DadosVisitas.csprojAssemblyReference.cache
+C:\Users\Orfeu\Google Drive\FACULDADE\Programação de Software Aplicado\P1\Trabalho Extra\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\DadosVisitas.csproj.CoreCompileInputs.cache
+C:\Users\Orfeu\Google Drive\FACULDADE\Programação de Software Aplicado\P1\Trabalho Extra\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\DadosVisitas.AssemblyInfoInputs.cache
+C:\Users\Orfeu\Google Drive\FACULDADE\Programação de Software Aplicado\P1\Trabalho Extra\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst_182\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.0\DadosVisitas.AssemblyInfo.cs
